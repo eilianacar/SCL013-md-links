@@ -5,7 +5,7 @@
 Md-links es una librería creada con Node. js con la que el usuario podrá analizar los archivos Markdown, quienes descarguen esta herramienta podrán extraer los links, que contengan los archivos con extensión .md, así mismo podrá hacer la validación de los estados en los enlaces encontrados lo cual permite conocer si los enlaces validos y no validos, al mismo tiempo que reporta estadísticas de los enlaces.
 
 ## 2. Diagrama de Flujo de Md-links
-![Diagrama.flujo](img/DiagramaDeFlujo.png)
+![Diagrama.flujo](./img/DiagramaDeFlujo.png)
 
 ## 3. Cómo extraer las los desde la librería Md-links
 
@@ -51,6 +51,6 @@ Criterios de aceptación:
 
 
 ## 5. Cómo instalar md-links
-    • Instalar la librería vía npm install  (comando de instalación)
+    • Instalar la librería vía npm install 
 
 
